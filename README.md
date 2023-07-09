@@ -1,4 +1,4 @@
-# Film Library
+# Movie Library
 This is a film library made using graphics from the sgg library.The user can either search the movie title or narrow down movie searches using optional filters
 such as director,stars,year and genre.
 
